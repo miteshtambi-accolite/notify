@@ -1,0 +1,9 @@
+<html>
+<body>
+<h3>Hi ${user.name}, your policy is being generated :)!</h3>
+
+<div>
+    This is your certificate document. Please keep it safe.
+</div>
+</body>
+</html>
